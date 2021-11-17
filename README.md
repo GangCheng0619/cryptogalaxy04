@@ -60,7 +60,7 @@ const setValueWithDelay = (value) => (dispatch) => {
 }
 ```
 
-Effect that dispatch another effect:
+Effect that dispatch another effects:
 
 ```js
 const incrementWithDelay = () => (dispatch, getState) => {
