@@ -1,8 +1,31 @@
 ![cryptocurrency-non-fungible-tokens-financial-technology-background](https://user-images.githubusercontent.com/92837296/147797634-90122f6b-e680-4bfe-8509-980a10aa75f4.jpg)
 
 
-👍 I am a best Full Stack Developer, Database Administrator 👍
-I am a Full-Stack developer with years of experience in enterprise and high-performance responsive web technologies for both frontend and backend. Also, I am a self taught Full-Stack Developer, passionate about learning new technologies. I have a working proficiency in JavaScript, React, Redux, HTML, CSS, Node, Express, PGSQL, MongoDB and Sass. I am skilled at making single page applications and progressive web apps with the extended ecosystems that allow your software to operate on multiple devices. I utilize ReactJS, VueJS, AngularJS, HTML5, JavaScript, and other flexible and powerful techniques to create reliable, fast and engaging web apps. I am also skilled at making cost effective cross-platform mobile app development using React Native. I am looking to further expand my skill set by gaining more in depth back-end knowledge. I adapt easily to new challenges and seek solutions to problems that arise sporadically.
+As a blockchain expert, specializing in writing smart contracts for DeFis/Dex and dApps as well as frontend web development through the use JavaScript frameworks (especially blockchain-based applications).
+
+My blockchain experience is extensive, having worked with blockchain since 2016. I have built DeFis, Dapps and NFT Marketplace/minting projects, as well as having worked with smart contracts in Solidity and Rust. I have expertise experiences with developing popular blockchain game integrated NFTs.
+
+I am well-versed in the following programming languages:
+- Cryptocurrency tech:
+
+* Crypto Coins Exchange Development
+* Custom Blockchain Development
+* ICO Development with Created Token ( Coin )
+* Smart-Contracts (Solidity, Truffle framework)
+* Token development (ERC20, ERC223, ERC721, ERC 1155)
+* Cryptocurrency Wallet and Exchange Applications
+* Private Blockchain Development
+
+- Web tech:
+
+* Javascript/Typescript, NodeJS, Web3js, Ethers.js
+* React/React Native/Next.js, Vue/VueX, 
+* Responsive Design, Sass/Less/Scss, HTML5
+* Bootstrap, styled-components
+* Python, Flask, Django, Webscraper
+
+Thanks for taking the time to read through my profile.
+Regards.
 
 * 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 )
 * 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Nest.js](https://nestjs.com/),  [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
