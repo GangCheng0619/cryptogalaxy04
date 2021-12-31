@@ -1,4 +1,5 @@
-![1000_F_243569942_MRxwo6X8Y5yLb3laLTSvz8Ib6bjHY1ek](https://user-images.githubusercontent.com/92837296/147797566-325ba85c-ddac-45ec-801a-539f4ea3912e.jpg)
+![240_F_341815794_wwu7Fo0szO6tBYTxQ3UXVytOtKYuRsYE](https://user-images.githubusercontent.com/92837296/147797601-7c0af615-6378-4f41-9aba-7caecc92c406.jpg)
+
 
 
 👍 I am a best Full Stack Developer, Database Administrator 👍
