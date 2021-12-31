@@ -1,5 +1,4 @@
-![240_F_341815794_wwu7Fo0szO6tBYTxQ3UXVytOtKYuRsYE](https://user-images.githubusercontent.com/92837296/147797601-7c0af615-6378-4f41-9aba-7caecc92c406.jpg)
-
+![cryptocurrency-non-fungible-tokens-financial-technology-background](https://user-images.githubusercontent.com/92837296/147797634-90122f6b-e680-4bfe-8509-980a10aa75f4.jpg)
 
 
 👍 I am a best Full Stack Developer, Database Administrator 👍
