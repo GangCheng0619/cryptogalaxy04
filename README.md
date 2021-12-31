@@ -19,7 +19,7 @@ I am well-versed in the following programming languages:
 - Web tech:
 
 * Javascript/Typescript, NodeJS, Web3js, Ethers.js
-* React/React Native/Next.js, Vue/VueX, 
+* React/React Native/Next.js, Vue/Nuxt, 
 * Responsive Design, Sass/Less/Scss, HTML5
 * Bootstrap, styled-components
 * Python, Flask, Django, Webscraper
@@ -27,14 +27,14 @@ I am well-versed in the following programming languages:
 Thanks for taking the time to read through my profile.
 Regards.
 
-* 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 )
-* 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Nest.js](https://nestjs.com/),  [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
+* 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 )
+* 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Hardhat.js](https://hardhat.org/), [Nest.js](https://nestjs.com/),  [Remix](https://remix.ethereum.org/) ( [Truffle](https://trufflesuite.com/), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
 * 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/), [Ionic](https://ionicframework.com/), [NativeScript](https://nativescript.org/), [Flutter](https://flutter.dev/), [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
 * 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
-Here is my [eMail](mailto:webdevsmart@hotmail.com?Subject=Hello%20Webdevsmart!) and [Skype](https://join.skype.com/invite/ulHRrEug5SCB).
-Here is my [eMail](mailto:webdevsmart@hotmail.com?Subject=Hello%20Webdevsmart!) and [Skype](https://join.skype.com/invite/dlJFnBUSkPkN).
+Here is my [eMail](mailto:passiondev5555@gmail.com?Subject=Hello%20WebpassionStar!) and [Skype](https://join.skype.com/invite/ulHRrEug5SCB).
+Here is my [eMail](mailto:passiondev5555@gmail.com?Subject=Hello%20WebpassionStar!) and [Skype](https://join.skype.com/invite/dlJFnBUSkPkN).
 
 # redux-execute [![Maintainability](https://api.codeclimate.com/v1/badges/1448aef0f57513e42c0c/maintainability)](https://codeclimate.com/github/sergeysova/redux-execute/maintainability) [![Build Status](https://travis-ci.com/sergeysova/redux-execute.svg?branch=master)](https://travis-ci.com/sergeysova/redux-execute) [![Coverage Status](https://coveralls.io/repos/github/sergeysova/redux-execute/badge.svg?branch=master)](https://coveralls.io/github/sergeysova/redux-execute?branch=master)
 
