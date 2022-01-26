@@ -33,8 +33,8 @@ Regards.
 * 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
-Here is my [eMail](mailto:passiondev5555@gmail.com?Subject=Hello%20WebpassionStar!) and [Skype](https://join.skype.com/invite/ulHRrEug5SCB).
-Here is my [eMail](mailto:passiondev5555@gmail.com?Subject=Hello%20WebpassionStar!) and [Skype](https://join.skype.com/invite/dlJFnBUSkPkN).
+Here is my [eMail](mailto:passiondev5555@gmail.com?Subject=Hello%20cryptogalaxy04!) and [Skype](https://join.skype.com/invite/ulHRrEug5SCB).
+Here is my [eMail](mailto:passiondev5555@gmail.com?Subject=Hello%20cryptogalaxy04!) and [Skype](https://join.skype.com/invite/dlJFnBUSkPkN).
 
 # redux-execute [![Maintainability](https://api.codeclimate.com/v1/badges/1448aef0f57513e42c0c/maintainability)](https://codeclimate.com/github/sergeysova/redux-execute/maintainability) [![Build Status](https://travis-ci.com/sergeysova/redux-execute.svg?branch=master)](https://travis-ci.com/sergeysova/redux-execute) [![Coverage Status](https://coveralls.io/repos/github/sergeysova/redux-execute/badge.svg?branch=master)](https://coveralls.io/github/sergeysova/redux-execute?branch=master)
 
@@ -107,7 +107,7 @@ const effect = (a, b) => (dispatch, getState) => {
 store.dispatch(effect, 1, 2) // 3
 ```
 
-[See also](https://github.com/reduxjs/redux-thunk#whats-a-thunk)
+[See also](https://github.com/cryptogalaxy04/redux-thunk#whats-a-thunk)
 
 ## Composition
 
@@ -130,7 +130,7 @@ const userPostsFetch = (userId) => async (dispatch) => {
 
 ## Logger
 
-Redux Execue has logger out of the box. You can combine it with [redux-logger](https://github.com/evgenyrodionov/redux-logger):
+Redux Execue has logger out of the box. You can combine it with [redux-logger](https://github.com/cryptogalaxy04/redux-logger):
 
 ```js
 import { createStore, applyMiddleware } from "redux"
