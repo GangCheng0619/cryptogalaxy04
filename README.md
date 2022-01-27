@@ -1,5 +1,4 @@
-![cryptocurrency-non-fungible-tokens-financial-technology-background](https://user-images.githubusercontent.com/92837296/147797634-90122f6b-e680-4bfe-8509-980a10aa75f4.jpg)
-
+![ecosystem](https://user-images.githubusercontent.com/92837296/151368153-8cda2a16-e08a-4981-92d5-93ee52f928db.jpg)
 
 As a blockchain expert, specializing in writing smart contracts for DeFis/Dex and dApps as well as frontend web development through the use JavaScript frameworks (especially blockchain-based applications).
 
