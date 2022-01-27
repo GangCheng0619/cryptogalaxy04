@@ -70,7 +70,7 @@ Redux Execue [middleware](https://github.com/reactjs/redux/blob/master/docs/adva
 
 An action creator that returns a function to perform asynchronous dispatch:
 
-```js
+js
 const setValue = (value) => ({
   type: "SET_VALUE",
   payload: { value },
