@@ -1,4 +1,4 @@
-![ecosystem](https://user-images.githubusercontent.com/92837296/151368153-8cda2a16-e08a-4981-92d5-93ee52f928db.jpg)
+![Blockchain-gaming](https://user-images.githubusercontent.com/92837296/151368512-b4343cb2-ea9f-4997-8fa1-d7f189f7b401.jpg)
 
 As a blockchain expert, specializing in writing smart contracts for DeFis/Dex and dApps as well as frontend web development through the use JavaScript frameworks (especially blockchain-based applications).
 
