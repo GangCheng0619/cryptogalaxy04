@@ -1,30 +1,9 @@
 ![Blockchain-gaming](https://user-images.githubusercontent.com/92837296/151368512-b4343cb2-ea9f-4997-8fa1-d7f189f7b401.jpg)
 
-As a blockchain expert, specializing in writing smart contracts for DeFis/Dex and dApps as well as frontend web development through the use JavaScript frameworks (especially blockchain-based applications).
-
-My blockchain experience is extensive, having worked with blockchain since 2016. I have built DeFis, Dapps and NFT Marketplace/minting projects, as well as having worked with smart contracts in Solidity and Rust. I have expertise experiences with developing popular blockchain game integrated NFTs.
-
-I am well-versed in the following programming languages:
-- Cryptocurrency tech:
-
-* Crypto Coins Exchange Development
-* Custom Blockchain Development
-* ICO Development with Created Token ( Coin )
-* Smart-Contracts (Solidity, Truffle framework)
-* Token development (ERC20, ERC223, ERC721, ERC 1155)
-* Cryptocurrency Wallet and Exchange Applications
-* Private Blockchain Development
-
-- Web tech:
-
-* Javascript/Typescript, NodeJS, Web3js, Ethers.js
-* React/React Native/Next.js, Vue/Nuxt, 
-* Responsive Design, Sass/Less/Scss, HTML5
-* Bootstrap, styled-components
-* Python, Flask, Django, Webscraper
-
-Thanks for taking the time to read through my profile.
-Regards.
+This Golden Pig is an experienced developer and system analyst who now specializes in blockchain ecosystem development. 
+He is comfortable working with many languages and platforms and has recently dedicated himself to developing blockchain applications using Solidity, Rust and MongoDB. He also has wide range of and deep experience with blockchain game development, and a master's degree in applied software engineering. 
+He guaranteed a high quality of work and keep good communication. Working with a team of programmers during some of his projects, he provided readable, well commented and structured code. 
+His goal is to provide high-quality service and products to his clients. He always ensure follow-up support after project completion.
 
 * 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 )
 * 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Hardhat.js](https://hardhat.org/), [Nest.js](https://nestjs.com/),  [Remix](https://remix.ethereum.org/) [Truffle](https://trufflesuite.com/), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
